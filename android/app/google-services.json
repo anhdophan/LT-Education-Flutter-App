@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "165979392171",
+    "firebase_url": "https://ielts-7d51b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ielts-7d51b",
+    "storage_bucket": "ielts-7d51b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165979392171:android:93c54d6a692f56b8194fee",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjLdC4N8sVLrpl9JjhkC_JSNIDuMWBwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165979392171:android:404e824bd576ed5d194fee",
+        "android_client_info": {
+          "package_name": "com.ielts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjLdC4N8sVLrpl9JjhkC_JSNIDuMWBwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

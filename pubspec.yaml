@@ -1,0 +1,43 @@
+name: mobile_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Giao diện & hệ thống
+  cupertino_icons: ^1.0.8
+  http: any
+  image_picker: ^1.0.7
+  shared_preferences: ^2.3.3
+  signalr_core: ^1.1.0
+
+  # Firebase (cần để Chat)
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.0
+  firebase_database: ^10.4.0
+  firebase_messaging: ^14.8.0
+  flutter_local_notifications: ^16.3.2
+
+  # State management
+  provider: ^6.1.2
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lt_logo.png
+    - assets/lt_logo_white.png
+    - assets/header_bg.jpg
+    - assets/footer_bg.jpg
